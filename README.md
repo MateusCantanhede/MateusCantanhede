@@ -29,8 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/mateuscantanhede"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mateuscantanhede" /></a></p>
 
-<p><img align="left"  width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscantanhede&show_icons=true&locale=en&layout=compact" alt="mateuscantanhede" /></p>
+<p><img align="left"  width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscantanhede&show_icons=true&locale=en&layout=compact" alt="mateuscantanhede" /></p>
 
-<p><img align="left"  width="300" src="https://github-readme-stats.vercel.app/api?username=mateuscantanhede&show_icons=true&locale=en&layout=compact" alt="mateuscantanhede" /></p>
+<p><img align="left"  width="250" src="https://github-readme-stats.vercel.app/api?username=mateuscantanhede&show_icons=true&locale=en&layout=compact" alt="mateuscantanhede" /></p>
 
-<p><img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscantanhede&layout=compact" alt="mateuscantanhede" /></p>
+<p><img align="left" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscantanhede&layout=compact" alt="mateuscantanhede" /></p>
