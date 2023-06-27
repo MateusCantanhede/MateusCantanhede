@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Payment Totem**
 
-- 🌱 I’m currently learning **.NET, AWS, Azure and web API with nodejs and C#**
+- 🌱 I’m currently learning **.NET, AWS, and web API with nestjs and C#**
 
 - 💬 Ask me about **React Native || .NET**
 
