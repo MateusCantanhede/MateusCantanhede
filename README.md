@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET, AWS, and web API with nestjs and C#**
 
-- 💬 Ask me about **React Native || .NET**
+- 💬 Ask me about **Nestjs || React Native || .Blazor Maui**
 
 - 📫 How to reach me **mrocha630@gmail.com**
 
