@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mateuscantanhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mateuscantanhede" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-cantanhede-618764104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-cantanhede-618764104/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mateus-cantanhede-618764104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-cantanhede-618764104/" height="30" width="40" /></a>
 <a href="https://instagram.com/mateus.cantanhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateus.cantanhede" height="30" width="40" /></a>
   <a href="https://wa.me/message/QS3PBRMGLJAAL1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mateus.cantanhede" height="30" width="40" /></a>
 </p>
