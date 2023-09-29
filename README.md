@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Cantanhede</h1>
 <h3 align="center">Dev Backend and mobile</h3>
 
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=mateuscantanhede&theme=onedark" alt="mateuscantanhede" /></a> </p>
+<p align="center">  </p>
 
 - 🔭 I’m currently working on **Payment Totem**
 
