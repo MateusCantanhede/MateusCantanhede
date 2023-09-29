@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mateus-cantanhede-618764104/](https://www.linkedin.com/in/mateus-cantanhede-618764104/)
 
-     ![snake gif](https://github.com/MateusCantanhede/MateusCantanhede/blob/output/github-contribution-grid-snake.svg)
+     ![snake animation](https://github.com/MateusCantanhede/MateusCantanhede/blob/output/github-contribution-grid-snake2.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
