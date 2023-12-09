@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, eu sou Mateus Cantanhede</h1>
-<h3 align="center">Trabalho como desenvolvedor backend/desktop e mobile em no nordeste do Brasil .</h3>
+<h3 align="center">Trabalho como desenvolvedor backend/desktop e mobile no nordeste do Brasil .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuscantanhede&label=Profile%20views&color=0e75b6&style=flat" alt="mateuscantanhede" /> </p>
 
