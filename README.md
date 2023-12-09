@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mr Pagamentos S/A**
 
-- 🌱 I’m currently learning **Padrões de projeto e arquitetura de projetos**
+- 🌱 I’m currently learning **Padrões de projeto e arquitetura de software**
 
 - 👨‍💻 All of my projects are available at [https://mateuscantanhede.github.io/portifolio](https://mateuscantanhede.github.io/portifolio)
 
