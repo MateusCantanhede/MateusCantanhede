@@ -27,7 +27,7 @@
 <p><a href="https://ko-fi.com/https://cdn.ko-fi.com/cdn/kofi3.png?v=3"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" /></a></p><br><br>
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&icons=true&theme=dracula&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCantanhede&icons=true&theme=dracula&layout=compact&hide=html,css)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscantanhede&show_icons=true&theme=dracula)
 <br><br>
