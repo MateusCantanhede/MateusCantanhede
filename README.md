@@ -29,6 +29,6 @@
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCantanhede&icons=true&theme=dracula&layout=compact&hide=html,css)
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscantanhede&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusCantanhede&show_icons=true&theme=dracula)
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscantanhede&theme=dracula" alt="mateuscantanhede" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusCantanhede&theme=dracula" alt="mateuscantanhede" /></p>
