@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mateuscantanhede.github.io/portifolio](https://mateuscantanhede.github.io/portifolio)
 
-- 💬 Ask me about **React Native, .NET, Js**
+- 💬 Ask me about **.C#, Js**
 
 - 📫 How to reach me **mateus.cantanhede@outlook.com**
 
