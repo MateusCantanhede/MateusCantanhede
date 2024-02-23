@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mr Pay Projects<br>🌱 I’m currently learning Devops<br>💬 Ask me about C#, node.Js<br>📫 How to reach me mateus.cantanhede@outlook.com<br>⚡ Fun fact  I'm bald
+🔭 I’m currently working on **Mr Pay Projects**<br>🌱 I’m currently learning **Devops**<br>💬 Ask me about **C#, node.Js**<br>📫 How to reach me **mateus.cantanhede@outlook.com**<br>⚡ Fun fact  **I'm bald**
 
 
 ## 🌐 Socials:
