@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" src="https://profile-counter.glitch.me/MateusCantanhede/count.svg?"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MateusCantanhede.MateusCantanhede&"  />
 
 ###
 
