@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MateusCantanhede.MateusCantanhede&left_color=aqua&right_color=aquamarine"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/MateusCantanhede/count.svg?"  />
 
 ###
 
