@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h3 align="left">A passionate backend developer from Brasil 🌵<br><br>🔭 I’m currently working on Mr Pay Projects<br><br>🌱 I’m currently learning IOS, Kubernetes<br><br>💬 Ask me about C#, node.Js<br><br>⚡ Fun fact I'm bald</h3>
+<h3 align="left">A passionate backend developer from Brasil 🌵<br><br>🔭 I’m currently working on Mr Pay Projects<br><br>🌱 I’m currently learning Swift,Docker and Kubernetes<br><br>💬 Ask me about C#, Node.Js<br><br>⚡ Fun fact I'm bald</h3>
 
 ###
 
