@@ -73,7 +73,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
 </div>
 
 ###
