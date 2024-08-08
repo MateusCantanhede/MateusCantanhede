@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h3 align="left">A passionate Full Stack developer from Brasil 🌵</h3>
+<h3 align="left">A passionate full stack developer from Brasil 🌵</h3>
 
 ###
 
